@@ -1,3 +1,7 @@
+# Observação: meu fork desse projeto tem como objetivo adicionar/editar as configurações para que eu use em meu servidor Self-Hosted, que roda sobre um Raspberry Pi 4 (4GB de RAM), a configuração do mesmo pode não atender suas espectativas, ou até mesmo não funcionar como deseja, use por sua conta e risco.
+
+# Observation: my fork of this project aims to add/edit the settings so that I use on my Self-Hosted server, which runs on a Raspberry Pi 4 (4GB of ram), the configuration of it may not meet your expectations, or even not work as you wish, use at your own risk.
+
 <p>
   <img src="https://raw.githubusercontent.com/biolds/sosse/main/se/static/se/logo.svg" width="64" align="right">
   <a href="https://gitlab.com/biolds1/sosse/" alt="Gitlab code coverage">
